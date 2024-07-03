@@ -1,0 +1,16 @@
+.container{
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+#clock {
+	box-sizing: border-box;
+	padding-left: 38px;
+	padding-top: 10px;
+    height: 40px;
+    width: 140px;
+    background-color: yellow;
+    border-radius: 10px;
+	color: red;
+}
